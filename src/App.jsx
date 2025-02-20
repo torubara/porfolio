@@ -105,7 +105,7 @@ function App() {
           <div className="group">
             <h3 className="text-xl font-semibold mb-4">Alisa Help</h3>
             <div className="bg-gray-100 h-64 mb-4 rounded-lg transition-all duration-300 group-hover:shadow-md">
-              <a className="bg[url(/src/assets/alisahelp.png)] block bg-cover w-[848px] h-[256px]" href="https://alisahelp.ru/">
+              <a className="bg-[url(/src/assets/alisahelp.png)] block bg-cover w-[848px] h-[256px]" href="https://alisahelp.ru/">
                 {/* <img
                   className="h-full w-full object-cover"
                   src="/src/assets/alisahelp.png"
