@@ -123,12 +123,12 @@ function App() {
           <div className="group">
             <h3 className="text-xl font-semibold mb-4">EuroGazProekt</h3>
             <div className="bg-gray-100 h-64 mb-4 rounded-lg transition-all duration-300 group-hover:shadow-md">
-              <a className="" href="https://eurogazproekt.ru/">
-                <img
+              <a className="bg-[url(/src/assets/eurogazproekt.png)] block bg-cover w-[848px] h-[256px]" href="https://eurogazproekt.ru/">
+                {/* <img
                   className="w-full h-full object-cover"
                   src="/src/assets/eurogazproekt.png"
                   alt=""
-                />
+                /> */}
               </a>
             </div>
             <p className="text-gray-600">
@@ -139,12 +139,12 @@ function App() {
           <div className="group">
             <h3 className="text-xl font-semibold mb-4">Pets</h3>
             <div className="bg-gray-100 h-64 mb-4 rounded-lg transition-all duration-300 group-hover:shadow-md">
-              <a className="" href="https://torubara.github.io/pets/">
-                <img
+              <a className="bg-[url(/src/assets/pets.png)] block bg-cover w-[848px] h-[256px]" href="https://torubara.github.io/pets/">
+                {/* <img
                   className="h-full w-full object-cover"
                   src="/src/assets/pets.png"
                   alt=""
-                />
+                /> */}
               </a>
             </div>
             <p className="text-gray-600">
